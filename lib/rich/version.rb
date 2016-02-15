@@ -1,3 +1,3 @@
 module Rich
-  VERSION = "1.4.8.1"
+  VERSION = "1.4.8.1a"
 end
